@@ -24,7 +24,7 @@ public class Main {
         DriverC categoryC = new DriverC("Николаев Алексей Александрович", "категория С", 30, man);
         DriverD categoryD = new DriverD("Афанасьев Сергей Анатольевич", "категория D", 40, daf);
 
-        System.out.println(categoryB);
+
         System.out.println(ikarus);
         System.out.println(kia);
         System.out.println(daf);
